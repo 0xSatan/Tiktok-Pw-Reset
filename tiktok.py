@@ -11,7 +11,7 @@ print("""
  \______/ |__/  |__/   |__/  |__/  |__/|__/  \__/
                                                  
 Tiktok Change Password [ v1 ] Free Tool, Copyright claimed
-- Telegram : s9tan  | Instagram : @satan2evil
+- Telegram : s9tan  | Instagram : @yjxf / @vpns.lost
 """)
 
 class SATAN():
